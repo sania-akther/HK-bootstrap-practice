@@ -15,4 +15,6 @@ _This repository holds the exercise of the Course Front-End Web UI Frameworks an
 
 * [Images and Media](https://sania-akther.github.io/HK-bootstrap-practice/practice/Images%20and%20Media/)
 
+* [Alerting Users](https://sania-akther.github.io/HK-bootstrap-practice/practice/Alerting%20and%20Users/)
+
 >Always try to learn something.
