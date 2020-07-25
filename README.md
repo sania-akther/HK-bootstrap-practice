@@ -13,4 +13,6 @@ _This repository holds the exercise of the Course Front-End Web UI Frameworks an
 
 * [Tables and Cards](https://sania-akther.github.io/HK-bootstrap-practice/practice/Tables%20and%20Cards/)
 
+* [Images and Media](https://sania-akther.github.io/HK-bootstrap-practice/practice/Images%20and%20Media/)
+
 >Always try to learn something.
