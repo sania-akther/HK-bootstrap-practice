@@ -17,4 +17,6 @@ _This repository holds the exercise of the Course Front-End Web UI Frameworks an
 
 * [Alerting Users](https://sania-akther.github.io/HK-bootstrap-practice/practice/Alerting%20and%20Users/)
 
+* [Tabs](https://sania-akther.github.io/HK-bootstrap-practice/practice/Tabs/)
+
 >Always try to learn something.
