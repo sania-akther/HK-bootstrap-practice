@@ -19,4 +19,6 @@ _This repository holds the exercise of the Course Front-End Web UI Frameworks an
 
 * [Tabs](https://sania-akther.github.io/HK-bootstrap-practice/practice/Tabs/)
 
+* [Accordion](https://sania-akther.github.io/HK-bootstrap-practice/practice/Accordion/)
+
 >Always try to learn something.
