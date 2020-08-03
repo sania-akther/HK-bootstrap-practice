@@ -21,4 +21,6 @@ _This repository holds the exercise of the Course Front-End Web UI Frameworks an
 
 * [Accordion](https://sania-akther.github.io/HK-bootstrap-practice/practice/Accordion/)
 
+* [Tooltips and Modals](https://sania-akther.github.io/HK-bootstrap-practice/practice/Tooltips%20and%20Modals/)
+
 >Always try to learn something.
